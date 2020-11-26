@@ -1,0 +1,21 @@
+$tab-button-bg-color: #89ef8e;
+
+.tabs {
+    text-align: center;
+    margin: 2em 0em; 
+}
+
+.tab-button{
+    display: inline-block;
+    background-color: transparentize($tab-button-bg-color, 0.6);
+    text-align: center;
+    padding: 0.5em 1em;
+    color: white; 
+    font-family: monospace;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tab-button:hover {
+    background-color: transparentize($tab-button-bg-color, 0.8);
+}
