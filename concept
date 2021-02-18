@@ -1,0 +1,29 @@
+Es gibt eine "Gallery" page. 
+	Hier werden alle meine Projekte in Umgekehrt chronologischer Reihenfolge mit Bild + Titel + description aufgeführt
+		Golden ratio aber ohne rahmen - eher wie an einer Wand in einer Gallerie
+		zufällig versetzt 
+			Content ist nur 80% vom Feld groß
+			Und verschoben um jeweils (x, y) 2% bis 18%
+		wenn man drüber fährt dreht es sich 
+			- denn es ist keine normale wand, wir sind im cyberspace
+			- css: "perspective: 100px;"
+			- click => führt zum detaillierten Artikel (use vue router?) 
+			auf mobile: 
+				- wenn man es answiped dreht es sich 
+				- webb nab touched geht man zum detaillierten Artikel
+			- gelegentlich wird eins angestoßen (damit man sieht, dass da noch was ist, so wie das Seil in dem Raum) 
+
+	Oben ist ein Banner
+		der ein Bild von mir enthält
+		rechts davon Schrift (irgendein Text) 
+		Links zu 
+			- Soundcloud
+			- Superrare
+			- ...
+
+Projekte
+	- Tagebuch-Analyse
+	- subtile3d
+	- aen 
+	- aquarium 
+	- ajam
