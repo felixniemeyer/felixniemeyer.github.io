@@ -22,8 +22,17 @@ Es gibt eine "Gallery" page.
 			- ...
 
 Projekte
-	- Tagebuch-Analyse
-	- subtile3d
-	- aen 
-	- aquarium 
-	- ajam
+	- wenn github Projekte
+		- show markdown from readme.md: import marked from 'marked';
+	- ideen
+		- Tagebuch-Analyse
+		- subtile3d
+		- aen 
+		- aquarium 
+		- ajam
+		- aus tieferer vergangenheit
+			- cs maps
+			- blitz basic spielereien
+				- scwarzes wasser
+		- rust circuläre textur
+		- sense
