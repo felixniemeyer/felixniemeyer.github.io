@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2133a2"],{ac7a:function(n,a,c){"use strict";c.r(a);var e=c("7a23"),t={class:"mindalys-project"};function s(n,a,c,s,d,o){return Object(e["p"])(),Object(e["d"])("div",t)}var d=Object(e["h"])({name:"Mindalys",components:{}});d.render=s;a["default"]=d}}]);
